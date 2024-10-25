@@ -1,6 +1,4 @@
-#ifndef PROJECTILE_H
-#define PROJECTILE_H
-
+#pragma once
 #include <iostream>
 
 
@@ -40,4 +38,4 @@ public:
     void impact() const override; 
 };
 
-#endif 
+ 
